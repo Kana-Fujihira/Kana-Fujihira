@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is Kana FUJIHIRA (PEDRINIS) and I'm a Developer Junior Full-Stack from  Japan 🗾🍙</h2>
+<h2 align="left">Hi 👋! My name is Kana FUJIHIRA (PEDRINIS) and I'm a Developer Junior Full-Stack from  Japan 🗾</h2>
 
 ###
 
