@@ -1,8 +1,8 @@
-<h2 align="left">Hi 👋! My name is Kana FUJIHIRA (PEDRINIS) and I'm a Developer Junior Full-Stack from  Japan 🗾</h2>
+<h2 align="left">Hello👋 <br>! I'am Kana FUJIHIRA (PEDRINIS) and I'm a Web Junior Developer Full-Stack from Japan 🗾 living in France 🥐</h2>
 
 ###
 
-<p align="left">👩‍💼 - 4 years experiences as Account Manager in Tokyo and in Lyon <br>🏫 - Career transition at Wild Code School <br>💻 -  I am working on group project with React/MySQL <br>👩‍💻 -  My passion is codinng / Learning new tech <br>🧗 - Climber</p>
+<p align="left">👩‍💼 - 4 years experiences as Account Manager in Tokyo and in Lyon <br>🏫 - Career transition at Wild Code School <br>💻 -  I finished my intensive course as full stack experience with React and JavaScript/MySQL and now I'm searching new job opportunity in Lyon. <br>👩‍💻 -  My passion is codinng / I am learning Angular and Java <br>🧗 - My hobby is Climbing </p>
 
 ###
 
