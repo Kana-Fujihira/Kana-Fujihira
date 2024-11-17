@@ -7,15 +7,17 @@
 
 - 🔭 I’m currently working on [my portfolio with Angular and Node.js](https://github.com/Kana-Fujihira/my-portfolio-angular-nodejs)
 
-- 🌱 I’m currently learning **Angular,TypeScript**
+- 🌱 I’m currently learning **Angular,JAVA**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Kana-Fujihira](https://github.com/Kana-Fujihira)
 
-- 💬 Ask me about **React,JavaScript,HTML,CSS**
+- 💬 Ask me about **React,JavaScript,HTML,CSS,Node.js**
 
-- 📫 How to reach me **kanafujihirapedrinis@gmail.com**
+- 📫 How to reach me **kanafujihirapedrinis@gmail.com or send me DM by LinkedIn**
 
 - 📄 Know about my experiences [https://www.linkedin.com/in/kana-pedrinis-b3174013b/](https://www.linkedin.com/in/kana-pedrinis-b3174013b/)
+  
+- 🍚 My portfolio [https://kana-fujihira-portfolio.netlify.app/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
